@@ -1,1 +1,197 @@
 # JamboNews
+# JamboMain
+{
+  "0":{
+  "id":"1",
+  "name":"TV 5 MONDE",
+  "description":"TV5 est une francaise d'informations international et autres",
+  "live_url":"https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
+  "thumbnail":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg",
+  "categorie":"NEWS",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "1":{
+  "id": "1",
+  "name": "ALJAZEERA EN",
+  "description": "Aljazeera est une chaine d'informations d'informations international et autres.",
+  "live_url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+   "2":{
+  "id": "2",
+  "name": "SABC NEWS",
+  "description": "SABC NEWS infos est une francaise d'informations international et autres",
+  "live_url": "http://185.59.221.131:8081/live/sabcnews/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNTMxNjYxNDFf/sabcnews.jpg",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+   "3":{
+  "id": "3",
+  "name": "ALJAZEERA FR",
+  "description": "Aljazeera Arabic TV est une chaine d'informations international et autres.",
+  "live_url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+   "4":{
+  "id": "4",
+  "name": "AFRICA 24",
+  "description": "Africa 24 est une chaîne télévisée d'informations international et autres",
+  "live_url": "https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+   "5":{
+  "id": "5",
+  "name": "BLOOMBERG TV",
+  "description": "Bloomberg TV Europe est une chaîne télévisée d'informations international et autres",
+  "live_url": "https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+   "6":{
+  "id": "6",
+  "name": "EURONEWS",
+  "description": "EURONEWS est une chaîne télévisée d'informations international et autres",
+  "live_url": "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yNTkxOTM4NjJf/euronew.png",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+   "7":{
+  "id": "7",
+  "name": "EURONEWS",
+  "description": "DW TV est une chaîne de Télévision généraliste bilingue anglais et français et d'information vers le monde. Elle est destinée à la promotion des valeurs économiques et sociales mondiaux",
+  "live_url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODY2NTg2MTZf/dw.jpeg",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+   "8":{
+  "id": "8",
+  "name": "RT ENGLISH",
+  "description": "Rassia Today est une chaîne télévisée d'informations international et autres",
+  "live_url": "http://69.64.57.208/russiatoday/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yOTQwNjUwNDZf/russiatoday.png",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+   "9":{
+  "id": "9",
+  "name": "RT FRANCAIS",
+  "description": "Rassia Today est une chaîne télévisée d'informations international et autres",
+  "live_url": "http://69.64.57.208/rtfrance/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+   "10":{
+  "id": "10",
+  "name": "BRICS TV",
+  "description": "BRICS TV est une chaîne télévisée d'informations international et autres",
+  "live_url": "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+   "11":{
+  "id": "11",
+  "name": "FOX NEWS",
+  "description": "Fox News Television est une chaîne télévisée spécialisée au informations et autres",
+  "live_url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "12":{
+  "id": "12",
+  "name": "CGTN TV",
+  "description": "CGTN est une chaîne télévisée d'informations international et autres",
+  "live_url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "13":{
+  "id": "13",
+  "name": "CNA TV",
+  "description": "CNA TV est une chaîne télévisée d'informations international et autres",
+  "live_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "14":{
+  "id": "14",
+  "name": "BXL 1 TV",
+  "description": "BXL 1 est une chaîne télévisée d'informations international et autres.",
+  "live_url": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODMzMTIzODhf/channel24.png",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "15":{
+  "id": "15",
+  "name": "BBC WORLD",
+  "description": "BBC World News d'informations international et autres.",
+  "live_url": "http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODA3NzY0NTRf/bbcwoelds.png",
+  "categorie": "NEWS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  }
+}
+
