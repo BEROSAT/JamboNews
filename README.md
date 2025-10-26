@@ -85,7 +85,7 @@
   "id": "9",
   "name": "RT FRANCAIS",
   "number":"410",
-  "description": "410",
+  "description": "Rassia Today (Francais) est une chaîne télévisée d'informations international et autres",
   "live_url": "http://69.64.57.208/rtfrance/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png",
   "categorie": "NEWS"
@@ -94,7 +94,7 @@
   "id": "10",
   "name": "RT ENGLISH",
   "number":"409",
-  "description": "409",
+  "description": "Rassia Today (English) est une chaîne télévisée d'informations international et autres",
   "live_url": "http://69.64.57.208/russiatoday/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTQwNjUwNDZf/russiatoday.png",
   "categorie": "NEWS"
@@ -130,7 +130,7 @@
   "id": "14",
   "name": "FRANCE 24 ARABIC",
   "number":"414",
-  "description : "فرانس 24 (العربية) هي قناة اخبارية دولية",
+  "description" : "فرانس 24 (العربية) هي قناة اخبارية دولية",
   "live_url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODEzNjQwMzBf/france24Arabic.png",
   "categorie": "NEWS"
