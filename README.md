@@ -204,7 +204,7 @@
   "number":"414",
   "description": "ABC News est une chaîne télévisée d'informations international et autres.",
   "live_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODEzNjQzNjlf/bxl1.png",
+  "thumbnail": "https://od.lk/s/NDZfODc0MzUzMTVf/abcnews.jpeg",
   "categorie": "NEWS"
   },
   "23":{
@@ -213,7 +213,7 @@
   "number":"414",
   "description": "bloomberg est une chaîne télévisée d'informations international et autres.",
   "live_url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODEzNjQzNjlf/bxl1.png",
+  "thumbnail": "https://od.lk/s/NDZfODc0MzUyNzBf/bloombergtv.png",
   "categorie": "NEWS"
   },
   "24":{
@@ -231,7 +231,7 @@
   "number":"414",
   "description": "Fox News est une chaîne télévisée d'informations international et autres.",
   "live_url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8",
-  "thumbnail": "https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png",
+  "thumbnail": "https://od.lk/s/NDZfODc0MzUyNDJf/africanews.jpeg",
   "categorie": "NEWS"
   },
   "26":{
@@ -240,7 +240,7 @@
   "number":"414",
   "description": "Africanews English est une chaîne télévisée d'informations international et autres.",
   "live_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8",
-  "thumbnail": "https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png",
+  "thumbnail": "https://od.lk/s/NDZfODc0MzUyMzhf/africanewsEnglish.png",
   "categorie": "NEWS"
   },
   "27":{
@@ -249,7 +249,61 @@
   "number":"414",
   "description": "Cnews Francais est une chaîne télévisée d'informations international et autres.",
   "live_url": "https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8",
-  "thumbnail": "https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png",
+  "thumbnail": "https://od.lk/s/NDZfODc0MzUyMjVf/cnewstv.png",
+  "categorie": "NEWS"
+  },
+  "28":{
+  "id": "28",
+  "name": "TF1 TV",
+  "number":"414",
+  "description": "TF1 est une chaîne télévisée d'informations international et autres.",
+  "live_url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODc0MzUxOThf/tf1.jpeg",
+  "categorie": "NEWS"
+  },
+  "29":{
+  "id": "29",
+  "name": "EURONEWS",
+  "number":"414",
+  "description": "Euronews French est une chaîne télévisée d'informations international et autres.",
+  "live_url": "https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODc0MzUxNzlf/euronews.png",
+  "categorie": "NEWS"
+  },
+  "30":{
+  "id": "30",
+  "name": "LCI TV",
+  "number":"414",
+  "description": "LCI French est une chaîne télévisée d'informations international et autres.",
+  "live_url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODc0MzUxMzNf/lcitele.jpeg",
+  "categorie": "NEWS"
+  },
+  "31":{
+  "id": "31",
+  "name": "BFMTV",
+  "number":"414",
+  "description": "bfmtv French est une chaîne télévisée d'informations international et autres.",
+  "live_url": "https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODc0MzUxMDhf/bfmlogo.jpeg",
+  "categorie": "NEWS"
+  },
+  "32":{
+  "id": "32",
+  "name": "BBC NEWS",
+  "number":"414",
+  "description": "Bbc News est une chaîne télévisée d'informations international et autres.",
+  "live_url": "https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODc0MzUwODlf/bbcnews.png",
+  "categorie": "NEWS"
+  },
+  "33":{
+  "id": "33",
+  "name": "IRAN INTERNATIONAL",
+  "number":"414",
+  "description": "ran International est une chaîne télévisée d'informations international et autres.",
+  "live_url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODc0MzUwNDFf/iraninternational.png",
   "categorie": "NEWS"
   },
 
