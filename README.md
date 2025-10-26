@@ -105,7 +105,7 @@
   "number":"411",
   "description": "411",
   "live_url": "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png",
+  "thumbnail": "https://od.lk/s/NDZfNTk5Mjc2MjVf/brics.png",
   "categorie": "NEWS"
   },
   "12":{
@@ -198,6 +198,63 @@
   "thumbnail": "https://od.lk/s/NDZfODEzNjQzNjlf/bxl1.png",
   "categorie": "NEWS"
   },
+  "22":{
+  "id": "22",
+  "name": "ABC NEWS TV",
+  "number":"414",
+  "description": "ABC News est une chaîne télévisée d'informations international et autres.",
+  "live_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODEzNjQzNjlf/bxl1.png",
+  "categorie": "NEWS"
+  },
+  "23":{
+  "id": "23",
+  "name": "BLOOMBERG TV",
+  "number":"414",
+  "description": "bloomberg est une chaîne télévisée d'informations international et autres.",
+  "live_url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODEzNjQzNjlf/bxl1.png",
+  "categorie": "NEWS"
+  },
+  "24":{
+  "id": "24",
+  "name": "FOX NEWS TV",
+  "number":"414",
+  "description": "Fox News est une chaîne télévisée d'informations international et autres.",
+  "live_url": "http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png",
+  "categorie": "NEWS"
+  },
+  "25":{
+  "id": "25",
+  "name": "AFRICANEWS FRANCAIS",
+  "number":"414",
+  "description": "Fox News est une chaîne télévisée d'informations international et autres.",
+  "live_url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png",
+  "categorie": "NEWS"
+  },
+  "26":{
+  "id": "26",
+  "name": "AFRICANEWS ENGLISH",
+  "number":"414",
+  "description": "Africanews English est une chaîne télévisée d'informations international et autres.",
+  "live_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png",
+  "categorie": "NEWS"
+  },
+  "27":{
+  "id": "27",
+  "name": "C-NEWS",
+  "number":"414",
+  "description": "Cnews Francais est une chaîne télévisée d'informations international et autres.",
+  "live_url": "https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png",
+  "categorie": "NEWS"
+  },
+
+
+  
   "22":{
   "id": "22",
   "name": "i24 NEWS FRANCAIS",
