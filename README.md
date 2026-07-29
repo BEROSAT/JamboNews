@@ -17,7 +17,10 @@
   "live_url": "https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_0/chunklist.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODc0MjY5Njdf/i24Francais.PNG",
   "categorie": "NEWS"
-  }, 
+  }
+}
+
+
   "2":{
   "id": "2",
   "name": "i24 NEWS ARABIC",
