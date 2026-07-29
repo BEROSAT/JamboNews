@@ -8,7 +8,10 @@
   "live_url":"https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
   "thumbnail":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg",
   "categorie":"NEWS"
-  },
+  }
+}
+
+  
   "1":{
   "id": "1",
   "name": "i24 NEWS FRANCAIS",
@@ -18,7 +21,7 @@
   "thumbnail": "https://od.lk/s/NDZfODc0MjY5Njdf/i24Francais.PNG",
   "categorie": "NEWS"
   }
-}
+
 
 
   "2":{
@@ -309,7 +312,7 @@
   "thumbnail": "https://od.lk/s/NDZfODc0MzUwNDFf/iraninternational.png",
   "categorie": "NEWS"
   }
-}
+
 
   
   "22":{
