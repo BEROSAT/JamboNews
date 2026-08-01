@@ -9,9 +9,6 @@
   "thumbnail":"https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg",
   "categorie":"NEWS"
   }
-}
-
-  
   "1":{
   "id": "1",
   "name": "i24 NEWS FRANCAIS",
